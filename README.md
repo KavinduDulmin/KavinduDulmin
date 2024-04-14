@@ -21,7 +21,7 @@
   <a href="dulminkavindu@gmail.com " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="24" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/kavindu-dulmin-b064842ba" target="_blank">
+  <a href="[www.linkedin.com/in/kavindu-dulmin-b064842ba](https://www.linkedin.com/in/kavindu-dulmin-b064842ba)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/kavindu.dulmin.1?mibextid=ZbWKwL" target="_blank">

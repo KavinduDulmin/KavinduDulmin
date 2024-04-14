@@ -30,6 +30,10 @@
   <a href="https://www.instagram.com/kavindu_dulmin?utm_source=qr&igsh=dTBlejB4eWM1Y2Yw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="24" alt="instagram logo"  />
   </a>
+ <a href="https://www.behance.net/kavindudulmin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="24" alt="behance logo"  />
+  </a>
+  
 </div>
 
 ###

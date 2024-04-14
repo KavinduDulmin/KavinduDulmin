@@ -1,4 +1,5 @@
 <h4 align="center">💻 About Me</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindudulmin&label=Profile%20views&color=0e75b6&style=flat" alt="kavindudulmin" /> </p>
 
 ###
 
@@ -74,5 +75,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="27" alt="adobepremierepro logo"  />
 </div>
+<br/>
+<br/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kavindudulmin&show_icons=true&locale=en" alt="kavindudulmin" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindudulmin&" alt="kavindudulmin" /></p>
 
-###
